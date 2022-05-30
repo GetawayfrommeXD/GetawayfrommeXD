@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GetawayfrommeXD
-- 👀 I’m interested in Data Science and Robotics
-- 🌱 I’m currently learning Raspberry pi, Arduino and Golang. 
+- 👀 I’m interested in Data Science and Data Engineering
+- 🌱 I’m currently refining my skills in Python, R and SQL. 
 - 💞️ I’m looking to collaborate on projects that allow me to grow as an individual and a valuable team player.
 - 📫 How to reach me @lowrenhwa88@gmail.com 
 
